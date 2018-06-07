@@ -1,0 +1,50 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:760px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u229_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:524px;
+  height:230px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:80px;
+}
+#u229 {
+  position:absolute;
+  left:236px;
+  top:182px;
+  width:524px;
+  height:230px;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:80px;
+}
+#u230 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:524px;
+  word-wrap:break-word;
+}

@@ -1,0 +1,260 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:995px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:1px;
+  width:995px;
+  height:59px;
+}
+#u0_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:995px;
+  height:59px;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:36px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u1_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u1 {
+  position:absolute;
+  left:278px;
+  top:10px;
+  width:90px;
+  height:40px;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u2 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:86px;
+  word-wrap:break-word;
+}
+#u3_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:90px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u3 {
+  position:absolute;
+  left:398px;
+  top:10px;
+  width:90px;
+  height:40px;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:86px;
+  word-wrap:break-word;
+}
+#u5_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:152px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u5 {
+  position:absolute;
+  left:529px;
+  top:10px;
+  width:152px;
+  height:40px;
+  font-family:'汉仪刚艺体简 Regular', '汉仪刚艺体简';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:148px;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:719px;
+  top:9px;
+  width:248px;
+  height:41px;
+}
+#u7_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:248px;
+  height:41px;
+  font-family:'等线 Regular', '等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:287px;
+  height:487px;
+}
+#u8 {
+  position:absolute;
+  left:462px;
+  top:171px;
+  width:287px;
+  height:487px;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:236px;
+  width:283px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u10_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:213px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u10 {
+  position:absolute;
+  left:502px;
+  top:490px;
+  width:213px;
+  height:36px;
+}
+#u11 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:209px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12 {
+  position:absolute;
+  left:534px;
+  top:364px;
+  width:181px;
+  height:32px;
+}
+#u12_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  height:32px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:transparent;
+  text-align:left;
+}
+#u13 {
+  position:absolute;
+  left:534px;
+  top:414px;
+  width:181px;
+  height:32px;
+}
+#u13_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  height:32px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:transparent;
+  text-align:left;
+}
