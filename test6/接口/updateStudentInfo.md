@@ -25,7 +25,7 @@
 
         {         
             "ID":"123456",  
-            "studentNumber":201510414117" 
+            "studentNumber":201510414102" 
             "name":"曾浩",
             "github":"https://github.com/jacksmith2017/is_analysis",
             "sex":"男",
