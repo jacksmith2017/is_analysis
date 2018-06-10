@@ -23,8 +23,8 @@
 ## 2. 系统总体结构
 ![](picture/实验管理平台系统结构.png)
 
-界面设计参见：<br>【老师端】 https://614756773.github.io/is_analysis/test6/ui/%E5%AE%9E%E9%AA%8C_1.html
-              <br>【学生端】 https://614756773.github.io/is_analysis/test6/ui/%E9%80%89%E8%AF%BE.html
+界面设计参见：<br>【老师端】 https://jacksmith2017.github.io/is_analysis/test6/ui/%E5%AE%9E%E9%AA%8C_1.html
+              <br>【学生端】 https://jacksmith2017.github.io/is_analysis/test6/ui/%E9%80%89%E8%AF%BE.html
 
 ## 3. 用例图设计 [源码](src/用例图.puml)
 ![](picture/用例图.png)
