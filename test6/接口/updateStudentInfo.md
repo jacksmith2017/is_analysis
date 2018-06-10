@@ -26,8 +26,8 @@
         {         
             "ID":"123456",  
             "studentNumber":201510414117" 
-            "name":"秦著",
-            "github":"https://github.com/614756773/is_analysis",
+            "name":"曾浩",
+            "github":"https://github.com/jacksmith2017/is_analysis",
             "sex":"男",
             "nation":"汉"           
         }
